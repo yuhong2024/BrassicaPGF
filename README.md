@@ -16,7 +16,7 @@ Official Website: [https://brassicapgf.com](https://brassicapgf.com)
 
 ## How to Cite
 
-Yuhong Wang, Xiaodong Li, Boyu Meng, Xueying Wang & Kun Lu. (2025). BrassicaPGF: A pan-gene family database for U's triangle Brassica species. GitHub repository. https://github.com/yuhong2024/BrassicaPGF
+Yuhong Wang, Xiaodong Li, Boyu Meng, Xueying Wang & Kun Lu. (2025). BrassicaPGF: A pan-gene family database for U's triangle Brassica species. GitHub repository. https://github.com/yuhong2024/BrassicaPGF .
 
 ## Team & Contributors
 
